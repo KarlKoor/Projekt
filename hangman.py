@@ -46,6 +46,6 @@ def hangman():
             print(f"Naiss arvasid ära sõna oli: '{sõna}'")
             break
     else:
-        # kui kaotad näed mis sõna oli
+        # kui kaotad näed mis sõna õige oli
         print(f"Ürita uuesti, muide õige sõna oli: '{sõna}'")
 hangman()
